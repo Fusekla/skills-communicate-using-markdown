@@ -7,3 +7,8 @@
 ls -la
 find / -name "script.sh" 2>/dev/null
 ```
+
+- [x] First task
+- [ ] Second task
+- [ ] Third task
+- [ ] Fourth task
